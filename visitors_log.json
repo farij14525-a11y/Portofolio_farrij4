@@ -1,0 +1,16 @@
+[
+    {
+        "timestamp": "2026-10-09 05:14:50",
+        "ip": "36.74.215.111",
+        "city": "Banyuwangi",
+        "region": "Java",
+        "country": "Indonesia",
+        "location": "Banyuwangi, Java, Indonesia",
+        "coords": "-8.2325138, 114.3575471",
+        "maps_link": "https://www.google.com/maps?q=-8.2325138,114.3575471",
+        "isp": "Telekomunikasi Indonesia PT",
+        "screen": "1280x720",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0",
+        "referer": "http://portofolio_farrij.test/"
+    }
+]
